@@ -1,52 +1,60 @@
 # Hello, I'm Abdullahi
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### Aspiring Data Scientist | AI Enthusiast | Researcher
 
-## Brief Introduction 
+<a href="www.linkedin.com/in/abdullahi-bashir-74256b2b5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?&style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<a href="https://medium.com/@yourusername">
+    <img src="https://img.shields.io/badge/-Medium-00AB6C?&style=for-the-badge&logo=Medium&logoColor=white" />
+</a>
 
-I am current a computer science student at USIU with a profound interest in technology and a dedication to solving complex problems.
+
+## Brief Introduction
+
+I am currently a computer science student at USIU with a strong passion for data analysis and data science. 
+My academic journey has fueled my interest in harnessing data to drive informed decision-making and uncover insights. 
+I am particularly fascinated by artificial intelligence and machine learning, and I actively engage in research projects that explore innovative applications of these technologies. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am eager to transition into the field of data science, specifically aiming to secure a role as a Data Analyst or Data Scientist. 
+My goal is to leverage my analytical skills and research experience to contribute to data-driven solutions while continuously expanding my expertise in AI and machine learning.
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         |      Field                             |         Profiency    |
+|-----------------------------------------------|----------------------------------------|----------------------|
+| Python                                        | Data Science, Data Analysis, AI    | ⭐⭐⭐⭐⭐             |
+| Excel                                         | Data Analysis                      | ⭐⭐⭐⭐⭐             |
+| Tableau                                       | Data Analysis                      | ⭐⭐                    |
+| PowerBI                                       | Data Analysis                      | ⭐⭐                    |
+| SQL                                           | Data Analysis                      |  ⭐⭐                   |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Programming Languages & Databases
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=React&logoColor=black" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?&style=for-the-badge&logo=Firebase&logoColor=black" />
 </div>
 
-### Endpoint
+
+### Data Tools
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Power_BI-F2C94C?&style=for-the-badge&logo=Power-BI&logoColor=black" />
+    <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
