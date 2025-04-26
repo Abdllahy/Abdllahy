@@ -23,15 +23,14 @@ My goal is to leverage my analytical skills and research experience to contribut
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         |      Field                             |         Profiency    |
 |-----------------------------------------------|----------------------------------------|----------------------|
 | Python                                        | Data Science, Data Analysis, AI    | ⭐⭐⭐⭐⭐             |
 | Excel                                         | Data Analysis                      | ⭐⭐⭐⭐⭐             |
-| Tableau                                       | Data Analysis                      | ⭐⭐                    |
-| PowerBI                                       | Data Analysis                      | ⭐⭐                    |
-| SQL                                           | Data Analysis                      |  ⭐⭐                   |
+| Tableau                                       | Data Analysis                      | ⭐⭐⭐⭐⭐             |
+| PowerBI                                       | Data Analysis                      | ⭐⭐⭐⭐⭐             |
+| SQL                                           | Data Analysis                      | ⭐⭐⭐⭐⭐             |
 
 ## Tools
 
