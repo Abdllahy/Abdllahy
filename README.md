@@ -1,74 +1,97 @@
-<h1 align="center">Hi there, I'm Abdullahi Bashir 👋</h1>
+<h1 align="center">Hi 👋, I'm Abdullahi Bashir</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullahi-bashir-74256b2b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00C2CB&vCenter=true&width=600&lines=Data+Science+and+Artificial+Intelligence...;Turning+Data+Into+Decisions.;Building+AI+Solutions+One+Model+at+a+Time.;Chasing+Insights%2C+Not+Just+Numbers.;Learning%2C+Improving%2C+Creating+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdullahi-bashir-74256b2b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://hashnode.com/@yourhashnode" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" />
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="https://yournewsletter.substack.com" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Badge" />
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
 
 ---
 
-## 🙌 Glad to see you here!
+## 🙌 About Me
 
-I am an aspiring **Data Scientist** and **AI Enthusiast** passionate about using data to solve real-world problems.  
-I enjoy digging deep into datasets, uncovering hidden insights, and building machine learning models that deliver impact.  
-Currently expanding my skills in **Deep Learning**, **NLP**, and **Big Data**.
-
----
-
-## 🧠 Talking about Personal Stuff:
-
-- 🎯 I'm currently building Machine Learning and AI projects.
-- 🚀 I'm currently mastering Deep Learning, NLP, and Predictive Analytics.
-- 💬 Ask me about Python, SQL, Data Science, Machine Learning.
-- ✍️ I regularly write about data and tech on [Medium](https://medium.com/@yourusername).
-- 📬 How to reach me: abdullahybashir@email.com
+I'm a passionate **Data Scientist** in the making, focused on extracting valuable insights and building real-world AI applications.  
+Currently expanding my knowledge in **Deep Learning**, **NLP**, and **Big Data Technologies**.
 
 ---
 
-## 🎮 My GitHub Contributions Snake
+## 🧠 Talking About Personal Stuff:
+
+<table>
+<tr>
+<td>
+
+<ul>
+  <li>🛠️ Currently building Machine Learning and AI projects.</li>
+  <li>🚀 Learning Deep Learning, NLP, and Predictive Analytics.</li>
+  <li>✍️ Writing articles on <a href="https://hashnode.com/@yourhashnode" target="_blank">Hashnode</a> and <a href="https://yournewsletter.substack.com" target="_blank">Substack</a>.</li>
+  <li>📬 Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+</ul>
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding and Coffee GIF" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages, Tools, and Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
-  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-tableau-a-business-intelligence-software-company-logo-bold-tal-revivo.png" alt="Tableau" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" alt="Power BI" />
+  <img src="https://img.icons8.com/ios/50/4a90e2/tableau-software.png" width="50" alt="Tableau" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="Postman" />
 </p>
 
 ---
 
-## 📈 This Week I Spent My Time On:
-
-```text
-Python        10 hrs 30 mins ████████████████
-SQL           5 hrs 15 mins  ████████
-Pandas        3 hrs 10 mins  ██████
-Tableau       2 hrs          ████
-Jupyter       1 hr 30 mins   ███
+<div align="center">
+  <h3>✨ Thank you for visiting my profile! ✨</h3>
+</div>
