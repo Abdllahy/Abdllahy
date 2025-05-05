@@ -47,7 +47,13 @@ Currently expanding my knowledge in **Deep Learning**, **NLP**, and **Big Data T
   <li>🛠️ Currently building Machine Learning and AI projects.</li>
   <li>🚀 Learning Deep Learning, NLP, and Predictive Analytics.</li>
   <li>✍️ Writing articles on <a href="https://hashnode.com/@yourhashnode" target="_blank">Hashnode</a> and <a href="https://yournewsletter.substack.com" target="_blank">Substack</a>.</li>
-  <li>📬 Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+  <li>📬 Reach me at: <a href="mailto:abyogia@gmail.com">abyogia@gmail.com</a></li>
+  <br>
+  <p align="left">
+  <a href="https://yournewsletter.substack.com" target="_blank">
+    <img src="https://img.shields.io/badge/Checkout%20My%20Weekly%20Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Newsletter" />
+  </a>
+</p>
 </ul>
 
 </td>
@@ -60,6 +66,8 @@ Currently expanding my knowledge in **Deep Learning**, **NLP**, and **Big Data T
 </table>
 
 ---
+
+
 
 ## 🐍 GitHub Contribution Snake
 
