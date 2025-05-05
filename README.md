@@ -1,65 +1,74 @@
-# Hello, I'm Abdullahi
-### Aspiring Data Scientist | AI Enthusiast | Researcher
+<h1 align="center">Hi there, I'm Abdullahi Bashir 👋</h1>
 
-<a href="www.linkedin.com/in/abdullahi-bashir-74256b2b5"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?&style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
-<a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/-Medium-00AB6C?&style=for-the-badge&logo=Medium&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullahi-bashir-74256b2b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
-## Brief Introduction
+## 🙌 Glad to see you here!
 
-I am currently a computer science student at USIU with a strong passion for data analysis and data science. 
-My academic journey has fueled my interest in harnessing data to drive informed decision-making and uncover insights. 
-I am particularly fascinated by artificial intelligence and machine learning, and I actively engage in research projects that explore innovative applications of these technologies. 
+I am an aspiring **Data Scientist** and **AI Enthusiast** passionate about using data to solve real-world problems.  
+I enjoy digging deep into datasets, uncovering hidden insights, and building machine learning models that deliver impact.  
+Currently expanding my skills in **Deep Learning**, **NLP**, and **Big Data**.
 
-## Objective
+---
 
-I am eager to transition into the field of data science, specifically aiming to secure a role as a Data Analyst or Data Scientist. 
-My goal is to leverage my analytical skills and research experience to contribute to data-driven solutions while continuously expanding my expertise in AI and machine learning.
+## 🧠 Talking about Personal Stuff:
 
+- 🎯 I'm currently building Machine Learning and AI projects.
+- 🚀 I'm currently mastering Deep Learning, NLP, and Predictive Analytics.
+- 💬 Ask me about Python, SQL, Data Science, Machine Learning.
+- ✍️ I regularly write about data and tech on [Medium](https://medium.com/@yourusername).
+- 📬 How to reach me: abdullahybashir@email.com
 
-## Skills
+---
 
-| Skill                                         |      Field                             |         Profiency    |
-|-----------------------------------------------|----------------------------------------|----------------------|
-| Python                                        | Data Science, Data Analysis, AI    | ⭐⭐⭐⭐⭐             |
-| Excel                                         | Data Analysis                      | ⭐⭐⭐⭐⭐             |
-| Tableau                                       | Data Analysis                      | ⭐⭐⭐⭐⭐             |
-| PowerBI                                       | Data Analysis                      | ⭐⭐⭐⭐⭐             |
-| SQL                                           | Data Analysis                      | ⭐⭐⭐⭐⭐             |
+## 🎮 My GitHub Contributions Snake
 
-## Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-### Programming Languages & Databases
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=React&logoColor=black" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?&style=for-the-badge&logo=Firebase&logoColor=black" />
-</div>
+---
 
+## 🛠️ Languages and Tools
 
-### Data Tools
-<div>
-    <img src="https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Power_BI-F2C94C?&style=for-the-badge&logo=Power-BI&logoColor=black" />
-    <img src="https://img.shields.io/badge/-SQL-00758F?&style=for-the-badge&logo=MySQL&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" />
+  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-tableau-a-business-intelligence-software-company-logo-bold-tal-revivo.png" alt="Tableau" />
+</p>
 
+---
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+## 📈 This Week I Spent My Time On:
 
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+```text
+Python        10 hrs 30 mins ████████████████
+SQL           5 hrs 15 mins  ████████
+Pandas        3 hrs 10 mins  ██████
+Tableau       2 hrs          ████
+Jupyter       1 hr 30 mins   ███
