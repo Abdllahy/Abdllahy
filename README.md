@@ -53,7 +53,7 @@ Currently expanding my knowledge in **Deep Learning**, **NLP**, and **Big Data T
   <a href="https://yournewsletter.substack.com" target="_blank">
     <img src="https://img.shields.io/badge/Checkout%20My%20Weekly%20Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack Newsletter" />
   </a>
-</p>
+  </p>
 </ul>
 
 </td>
