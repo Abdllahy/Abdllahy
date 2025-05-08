@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullahi Bashir</h1>
+<h1 align="center">Hi 👋, 
+  I'm Abdullahi Bashir</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00C2CB&vCenter=true&width=600&lines=Data+Science+and+Artificial+Intelligence...;Turning+Data+Into+Decisions.;Building+AI+Solutions+One+Model+at+a+Time.;Chasing+Insights%2C+Not+Just+Numbers.;Learning%2C+Improving%2C+Creating+%F0%9F%9A%80" alt="Typing SVG" />
