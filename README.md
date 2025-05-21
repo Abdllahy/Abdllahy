@@ -45,7 +45,7 @@ Currently expanding my knowledge in **Deep Learning**, **NLP**, and **Big Data T
 <td>
 
 <ul>
-  <li>🛠️ Currently building Machine Learning and AI projects.</li>
+  <li>🛠️ Currently building Machine Learning and AI projects that align with the future of AI</li>
   <li>🚀 Learning Deep Learning, NLP, and Predictive Analytics.</li>
   <li>✍️ Writing articles on <a href="https://hashnode.com/@yourhashnode" target="_blank">Hashnode</a> and <a href="https://yournewsletter.substack.com" target="_blank">Substack</a>.</li>
   <li>📬 Reach me at: <a href="mailto:abyogia@gmail.com">abyogia@gmail.com</a></li>
